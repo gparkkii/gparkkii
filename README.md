@@ -3,8 +3,6 @@
 </div>  
 
 ## Hello, I'm Ji Yeon 👋🏻
-
-### Summary
 ✨ I'm interested in <strong> Front-end web development </strong> and UI/UX Design <br/>
 🔭 I’m currently working on <strong> Web Platfrom Project for Developers </strong> and my own portfolio site <br/>
 🌱 I’m currently learning <strong> TypeScript, TDD and Docker </strong>
@@ -34,7 +32,7 @@
 ### Github Stats  
 
 <table><tr><td align="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=gparkkii&hide=prs&show_icons=true&theme=buefy&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=gparkkii&show_icons=true&theme=buefy&hide_border=true" align="left" style="width: 100%" />
 </td><td align="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gparkkii&hide=jupyter%20notebook&layout=compact&hide_border=true" align="left" style="width: 100%" />
 </td></tr></table>  
