@@ -5,9 +5,9 @@
 ## Hello, I'm Ji Yeon 👋🏻
 
 ### Summary
-- ✨ I'm interested in <strong> Front-end web development </strong> and UI/UX Design <br/>
-- 🔭 I’m currently working on <strong> Platfrom for Developers </strong> and my own portfolio site <br/>
-- 🌱 I’m currently learning <strong> TypeScript, TDD and Docker </strong>
+✨ I'm interested in <strong> Front-end web development </strong> and UI/UX Design <br/>
+🔭 I’m currently working on <strong> Web Platfrom for Developers </strong> and my own portfolio site <br/>
+🌱 I’m currently learning <strong> TypeScript, TDD and Docker </strong>
 
 <div align="left">
 <h3> Tech Stack </h3>
