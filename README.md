@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-009432?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-10ac84?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Photoshop-31a8ff?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Illustrator-ff9a00?style=flat-square&logo=Adobe-illustrator&logoColor=white"/>
