@@ -18,19 +18,14 @@
 <img src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/Node.js-009432?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-10ac84?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-009432?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ant Design-0170fe?style=flat-square&logo=Ant-Design&logoColor=white"/>
 <img src="https://img.shields.io/badge/Material UI-0081cb?style=flat-square&logo=Material-UI&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/git-f05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/slack-4a154b?style=flat-square&logo=slack&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Photoshop-31a8ff?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Illustrator-ff9a00?style=flat-square&logo=Adobe-illustrator&logoColor=white"/>
