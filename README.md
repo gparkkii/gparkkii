@@ -17,6 +17,10 @@
 <img src="https://img.shields.io/badge/React Router-ca4245?style=flat-square&logo=React-Router&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=white"/>
+<img src="https://img.shields.io/badge/babel-f9dc3e?style=flat-square&logo=babel&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/MongoDB-10ac84?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white"/>
