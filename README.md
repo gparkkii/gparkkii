@@ -19,6 +19,9 @@
 <img src="https://img.shields.io/badge/Redux Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <br/>
+<img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material UI-0081cb?style=flat-square&logo=Material-UI&logoColor=white"/>
+<br/>
 <img src="https://img.shields.io/badge/MongoDB-10ac84?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-009432?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
