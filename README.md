@@ -1,7 +1,3 @@
-<div>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgparkkii%2Fhit-counter&count_bg=%23FF8532&title_bg=%23A0A0A0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" align="right" />
-</div>  
-
 ## 프론트엔드 개발자 박지연입니다.
 ### 🔎 [Resume](https://www.notion.so/dcaf913c47474b5abb459c72e51baee0)
 
@@ -31,7 +27,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gparkkii&hide=jupyter%20notebook&layout=compact&hide_border=true" align="left" style="width: 100%" />
 </td></tr></table>  
 
-#### 📫 How to reach me: ...
-[![Github Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/gparkkii)](https://github.com/gparkkii)
-[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-10ac84?style=flat-square&logo=blogger&logoColor=white&link=https://velog.io/@gparkkii)](https://velog.io/@gparkkii)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyp933@gmail.com)](mailto:jyp933@gmail.com)
+<div>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgparkkii%2Fhit-counter&count_bg=%23FF8532&title_bg=%23A0A0A0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" align="left" />
+</div>  
