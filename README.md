@@ -1,3 +1,8 @@
+
+<div>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgparkkii%2Fhit-counter&count_bg=%23FF8532&title_bg=%23A0A0A0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" align="left" />
+</div>  
+
 ## 프론트엔드 개발자 박지연입니다.
 ### 🔎 [Resume](https://www.notion.so/dcaf913c47474b5abb459c72e51baee0)
 
@@ -27,6 +32,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gparkkii&hide=jupyter%20notebook&layout=compact&hide_border=true" align="left" style="width: 100%" />
 </td></tr></table>  
 
-<div>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgparkkii%2Fhit-counter&count_bg=%23FF8532&title_bg=%23A0A0A0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" align="left" />
-</div>  
+<br/>
