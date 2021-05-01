@@ -1,11 +1,10 @@
 
 <div>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgparkkii%2Fhit-counter&count_bg=%23FF8532&title_bg=%23A0A0A0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" align="left" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgparkkii%2Fhit-counter&count_bg=%23FF8532&title_bg=%23A0A0A0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" align="right" />
 </div>  
 
 ## 프론트엔드 개발자 박지연입니다.
 ### 🔎 [Resume](https://www.notion.so/dcaf913c47474b5abb459c72e51baee0)
-
 <div align="left">
 <h3> 🛠 Tech Stack </h3>
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/>
