@@ -30,11 +30,3 @@
 </td><td align="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gparkkii&hide=jupyter%20notebook&layout=compact&hide_border=true" align="left" style="width: 100%" />
 </td></tr></table>  
-
-#### 📫 How to reach me: ...
-[![Github Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/gparkkii)](https://github.com/gparkkii)
-[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-10ac84?style=flat-square&logo=blogger&logoColor=white&link=https://velog.io/@gparkkii)](https://velog.io/@gparkkii)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyp933@gmail.com)](mailto:jyp933@gmail.com)
-
-<!-- [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/gparkkii/?hl=ko)](https://www.instagram.com/gparkkii/?hl=ko) -->
