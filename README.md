@@ -4,7 +4,6 @@
 </div>  
 
 ## 프론트엔드 개발자 박지연입니다.
-### 🔎 [Resume](https://www.notion.so/dcaf913c47474b5abb459c72e51baee0)
 <div align="left">
 <h3> 🛠 Tech Stack </h3>
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/>
