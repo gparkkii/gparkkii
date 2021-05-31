@@ -27,7 +27,6 @@
 <table><tr><td align="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=gparkkii&count_private=true&show_icons=true&theme=buefy&hide_border=true" align="left" style="width: 100%" />
 </td><td align="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gparkkii&hide=jupyter%20notebook&layout=compact&hide_border=true" align="left" style="width: 100%" />
 </td></tr></table>  
 
 <br/>
